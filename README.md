@@ -16,4 +16,4 @@ https://www.youtube.com/c/CodeoftheFuture
 * Tutorial 11 - Sorting in Arrays
 * Tutorial 12 - Final Comments and Next Moves!
 
-This is an ongoing series so keep an eye out for new releases on our YouTube channel!
+
